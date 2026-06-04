@@ -8,6 +8,7 @@
   - [Helpdesk Simulation](https://github.com/Adi-NY/it-portfolio/tree/main/helpdesk-simulation)
   - [Atlassian Trello (Real World Experience)](https://github.com/Adi-NY/Trello)
   - [ServiceNow](https://github.com/Adi-NY/ServiceNow)
+  - Jira (In Progress)
 
 <h2>📜 Certifications</h2>
 
