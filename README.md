@@ -6,7 +6,8 @@
   - [Microsoft Entra](https://github.com/Adi-NY/microsoft-entra-id)
   - [Microsoft 365 Business & Exchange Online (Real World Experience)](https://github.com/Adi-NY/it-portfolio/tree/main/microsoft-365)
   - [Helpdesk Simulation](https://github.com/Adi-NY/it-portfolio/tree/main/helpdesk-simulation)
-  - [Atlassian & Ticketing Systems (Real World Experience + Homelab)](https://github.com/Adi-NY/it-portfolio/tree/main/atlassian-%26-ticketing-systems)
+  - [Atlassian Trello (Real World Experience)](https://github.com/Adi-NY/Trello)
+  - [ServiceNow](https://github.com/Adi-NY/ServiceNow)
 
 <h2>📜 Certifications</h2>
 
