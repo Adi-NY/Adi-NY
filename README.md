@@ -15,7 +15,11 @@
 - [CompTIA A+](https://www.credly.com/badges/59b77b00-e50c-4d6d-a014-bf611c4e6412/public_url)
 - CCNA (In Progress)
 
+
 <h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt="Adi-NY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
 [linkedin]: https://linkedin.com/in/nuhabkhan
+
