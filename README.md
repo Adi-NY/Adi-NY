@@ -23,3 +23,7 @@
 
 [linkedin]: https://linkedin.com/in/nuhabkhan
 
+## Technical Skills
+Windows Server 2019/2025 · Active Directory · Microsoft 365 · Microsoft Entra ·
+Identity Access Management (IAM) · Windows Firewall · HeidiSQL · VPN · DHCP · RDP ·
+ServiceNow · Trello · Jira · Google Workspace ·
